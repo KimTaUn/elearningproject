@@ -1,0 +1,11 @@
+#course{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.card-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-evenly;
+}
